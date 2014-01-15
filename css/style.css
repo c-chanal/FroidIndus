@@ -1,0 +1,41 @@
+.custom-back { 
+    background-color: #f8f8f8;
+}
+
+.table-hover>tbody>tr:hover>td,.table-hover>tbody>tr:hover>th {
+    background-color:#ccc;
+}
+
+.form-control{
+    width: 50%;
+}
+
+.cursor {
+    cursor: pointer;
+}
+
+.input-group-addon, .input-group-btn {
+    width: auto;
+}
+
+.connexion{
+    width: 100%;
+}
+
+.footer{
+    color: #777;
+    font-size: 17px;
+}
+
+body {
+    padding-bottom: 70px; 
+}
+
+#table th:hover{
+    background-color: #ccc;
+    cursor: pointer;
+}
+
+.glyphicon:empty{
+    width: 47px;
+}
